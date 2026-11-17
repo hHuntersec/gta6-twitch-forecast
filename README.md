@@ -1,3 +1,4 @@
+[
 # GTA VI launch-day Twitch forecast
 
 Entry for the [make.fun bounty "Forecast GTA VI's launch-day Twitch viewers hour by hour"](https://make.fun/bounty/gta6-twitch-ccu-forecast-01).
